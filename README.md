@@ -1,0 +1,1 @@
+# kjernetemp_cordova
