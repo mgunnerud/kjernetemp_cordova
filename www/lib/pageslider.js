@@ -33,27 +33,28 @@ function PageSlider(container) {
     // Use this function directly if you want to control the sliding direction outside PageSlider
     this.slidePageFrom = function(page, from) {
 
-        container.append(page);
+        container.appendChild(page);
 
         if (!currentPage || !from) {
-            page.attr("class", "page center");
+            page.setAttribute("class", "page center");
             currentPage = page;
             return;
         }
 
         // Position the page at the starting position of the animation
-        page.attr("class", "page " + from);
+        page.setAttribute("class", "page " + from);
 
-        currentPage.one('webkitTransitionEnd', function(e) {
-            $(e.target).remove();
+        currentPage.addEventListener('webkitTransitionEnd', function(e) {
+            e.target.parentNode.removeChild(e.target);
+            e.target.removeEventListener(e.type, arguments.callee);
         });
 
         // Force reflow. More information here: http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
-        container[0].offsetWidth;
+        container.offsetWidth;
 
         // Position the new page and the current page at the ending position of their animation with a transition class indicating the duration of the animation
-        page.attr("class", "page transition center");
-        currentPage.attr("class", "page transition " + (from === "left" ? "right" : "left"));
+        page.setAttribute("class", "page transition center");
+        currentPage.setAttribute("class", "page transition " + (from === "left" ? "right" : "left"));
         currentPage = page;
     }
 

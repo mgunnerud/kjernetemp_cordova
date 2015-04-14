@@ -28,7 +28,7 @@ function Kjernetemp()
 	me.setHeaderName(defaultHeaderName);
 	
     window.location.hash = "0";
-    slider.slidePage($($firstView));
+    slider.slidePage($firstView);
 };
 
 Kjernetemp.prototype.setupTabButtons = function()
@@ -135,7 +135,7 @@ Kjernetemp.prototype.doScroll = function()
     
     var $newCard = document.createElement("div");
     me.fillView($newCard, newViewData);
-    slider.slidePage($($newCard));
+    slider.slidePage($newCard);
 };
 
 Kjernetemp.prototype.setBackButtonVisibility = function(visible)
@@ -145,7 +145,7 @@ Kjernetemp.prototype.setBackButtonVisibility = function(visible)
 
 window.onload = function () 
 {
-    slider = new PageSlider($(document.getElementById("scrollpane")));
+    slider = new PageSlider(document.getElementById("scrollpane"));
 	kjernetempGlobal = new Kjernetemp();
    	var attachFastClick = Origami.fastclick;
     attachFastClick(document.body);
