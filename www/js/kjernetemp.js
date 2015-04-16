@@ -2,7 +2,6 @@
 * TODO:
 * - handle screen rotation
 * - add styling
-* - remove jQuery dependency
 */
 var defaultHeaderName = "Velg kjøtt";
 var slider;
@@ -94,8 +93,9 @@ Kjernetemp.prototype.fillView = function(view, viewData)
             listObject.classList.add("nodeHasChildren");
 			listObject.addEventListener("click", listObjectClickFn, false);
 			var listObjectArrow = document.createElement("div");
-			listObjectArrow.innerHTML = ">";
 			listObjectArrow.classList.add("listObjectArrow");
+            listObjectArrow.classList.add("fa");
+            listObjectArrow.classList.add("fa-angle-right");
 			listObject.appendChild(listObjectArrow);
 		}
 		view.appendChild(listObject);

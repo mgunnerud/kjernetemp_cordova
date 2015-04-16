@@ -28,7 +28,7 @@ body
 
 #header
 {
-	/*width: 100%;*/
+    position: relative;
 	height: 34px;
 	padding: 5px;
 	background-color: #DDD;
@@ -82,15 +82,18 @@ body
 
 #backButton
 {
-	border: 1px solid;
-	border-radius: 3px;
-	padding: 2px;
+    border-radius: 3px;
     position: absolute;
+    top: 0px;
+    width: 30px;
+    text-align: center;
+    font-size: 27px;
+    height: 100%;
 }
 
-#backButton:active
+#backButton:active i
 {
-	background-color: #AAA;
+	color: #AAA;
 }
 
 .page
@@ -103,12 +106,16 @@ body
 
 .listObject
 {
-	padding: 5px;
 	margin: 5px;
     border: 1px solid #AAA;
 	cursor: pointer;
 	position: relative;
     border-radius: 5px;
+}
+
+.listObjectName
+{
+    padding: 5px;
 }
 
 .listObject.nodeHasChildren:active
@@ -120,6 +127,6 @@ body
 {
 	position: absolute;
 	right: 5px;
-	top: 5px;
-	font-weight: bold;
+	top: 0px;
+    font-size: 27px !important;
 }
