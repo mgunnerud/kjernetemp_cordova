@@ -13,8 +13,8 @@ body
 #viewport
 {
 	position: absolute;
-	top: 0px; /* for iOS status bar */
-	bottom: 26px; /* footer buttons */
+	top: 0;
+    bottom: 50px; /* footer buttons */
 	left: 0;
 	right: 0;
 }
@@ -40,7 +40,7 @@ body
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
-	height: 26px;
+	height: 50px;
     line-height: 26px;
     border-top: 1px solid;
 }
@@ -64,9 +64,22 @@ body
 	/*border: 1px solid;*/
 }
 
+.tabbutton .fa
+{
+    display: block;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+.tabbuttonName
+{
+    font-size: 10px;
+    line-height: 18px;
+}
+
 .activeTabButton
 {
-	background-color: #DDD;
+	color: #DA0000;
 }
 
 #contact
@@ -93,7 +106,11 @@ body
 
 #backButton:active i
 {
-	color: #AAA;
+    color: #777;
+}
+.tabbutton:not(.activeTabButton):active
+{
+	color: #AD0000;
 }
 
 .page
