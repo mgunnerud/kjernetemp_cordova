@@ -133,6 +133,7 @@ body
 .listObjectName
 {
     padding: 5px;
+    white-space: normal;
 }
 
 .listObject.nodeHasChildren:active
@@ -146,4 +147,18 @@ body
 	right: 5px;
 	top: 0px;
     font-size: 27px !important;
+}
+
+.infoNode
+{
+    background-color: #DDD;
+    border-radius: 0px;
+    margin: 0px;
+    white-space: nowrap;
+}
+
+.infoNode > .fa
+{
+    padding: 5px;
+    float: left;
 }

@@ -78,18 +78,26 @@ Kjernetemp.prototype.fillView = function(view, viewData)
 			listObjectDescription.innerHTML = viewData[i].description
 			listObject.appendChild(listObjectDescription);
 		}
-		
-		listObjectClickFn = function(event)
-		{
-			event.preventDefault();
-			var treePath = event.currentTarget.getAttribute("treePath");
-			window.location.hash = window.location.hash + "-" + treePath;
-            me.doScroll();
-		};
-		
+		if(viewData[i].info) // info node
+        {
+            var infoIcon = document.createElement("span");
+            infoIcon.classList.add("fa");
+            infoIcon.classList.add("fa-info-circle");
+            listObject.insertBefore(infoIcon, listObjectName);
+            listObject.classList.add("infoNode");
+        }
+        
 		listObject.setAttribute("treePath", i);
 		if(viewData[i].children)
 		{
+            listObjectClickFn = function(event)
+            {
+                event.preventDefault();
+                var treePath = event.currentTarget.getAttribute("treePath");
+                window.location.hash = window.location.hash + "-" + treePath;
+                me.doScroll();
+            };
+            
             listObject.classList.add("nodeHasChildren");
 			listObject.addEventListener("click", listObjectClickFn, false);
 			var listObjectArrow = document.createElement("div");
