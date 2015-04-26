@@ -85,6 +85,7 @@ Kjernetemp.prototype.fillView = function(view, viewData)
 		{
 			var listObjectDescription = document.createElement("div");
             listObjectDescription.innerHTML = viewData[i].description;
+            listObjectDescription.classList.add("listObjectDescription");
 			listObject.appendChild(listObjectDescription);
 		}
 		if(viewData[i].info) // info node

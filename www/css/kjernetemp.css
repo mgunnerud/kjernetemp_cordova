@@ -159,12 +159,19 @@ body
     margin: 25px 0 0 0;
     border-radius: 0px;
     white-space: nowrap;
+    font-size: 11px;
 }
 
 .infoNode > .fa
 {
+    display: none;
     padding: 5px;
     float: left;
+}
+
+.listObjectDescription
+{
+    padding: 5px;
 }
 
 .listObjectIcon
