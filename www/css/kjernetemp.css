@@ -17,6 +17,7 @@ body
     bottom: 45px; /* footer buttons */
 	left: 0;
 	right: 0;
+    background-color: #e4e4e4;
 }
 
 #scrollpane
@@ -32,6 +33,7 @@ body
 	height: 45px;
     line-height: 45px;
     border-bottom: 1px solid #777;
+    color: white;
 }
 
 #footer
@@ -44,6 +46,12 @@ body
     border-top: 1px solid #777;
 }
 
+#header,
+#footer
+{
+    background-color: #932222;
+}
+
 #scrollwrapper
 {
 	position: absolute;
@@ -51,17 +59,15 @@ body
 	bottom: 0;
 	left: 0;
 	right: 0;
-    background-color: #E4E4E4;
 }
 
 .tabbutton
 {
 	display: inline-block;
-	/*padding: 4px;*/
     height: 100%;
 	width: 50%;
 	text-align: center;
-	/*border: 1px solid;*/
+    color: #BBB;
 }
 
 .tabbutton .fa
@@ -77,9 +83,10 @@ body
     line-height: 18px;
 }
 
+#backButton,
 .activeTabButton
 {
-	color: #DA0000;
+    color: white;
 }
 
 #contact
@@ -102,7 +109,6 @@ body
     padding-left: 15px;
     font-size: 34px;
     height: 100%;
-    color: #DA0000;
 }
 
 .tabbutton:not(.activeTabButton):active,

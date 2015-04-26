@@ -1,5 +1,5 @@
 var data = [{
-                "name": "Fuglekrek",
+                "name": "Fjærkre",
                 "icon" : "img/bird7.svg",
                 "children":
                 [
@@ -99,18 +99,18 @@ var data = [{
                     [
                     {
                         "name": "Rød",
-                        "description": "50-55"
+                        "description": "50-55°C"
                     },
                     {
                         "name": "Rosa",
-                        "description": "55-60"
+                        "description": "55-60°C"
                     },
                     {
                         "name": "Gjennomstekt",
-                        "description": "65-70"
+                        "description": "65-70°C"
                     },
                     {
-                        "name": "Anbefalt steketemperatur: 175",
+                        "name": "Anbefalt steketemperatur: 175°C",
                         "info": true
                     }
                     ]
@@ -121,7 +121,7 @@ var data = [{
                     [
                     {
                         "name": "",
-                        "description": "70-75 grader på 125 grader i ovn"
+                        "description": "70-75°C på 125°C i ovn"
                     },
                     ]
                 },
@@ -131,18 +131,18 @@ var data = [{
                     [
                     {
                         "name": "Rød",
-                        "description": "50-55"
+                        "description": "50-55°C"
                      },
                      {
                         "name": "Rosa",
-                        "description": "55-60"
+                        "description": "55-60°C"
                      },
                      {
                         "name": "Gjennomstekt",
-                        "description": "65-70"
+                        "description": "65-70°C"
                      },
                      {
-                        "name": "Stek 2 minutter på hver side på høy temperataur i stekepanne med stekeolje. Legg biffen over i ildfast form, tilsett smør og eventuelle urter, og putt i ovn på 175 grader i 20 minutter.",
+                        "name": "Stek 2 minutter på hver side på høy temperataur i stekepanne med stekeolje. Legg biffen over i ildfast form, tilsett smør og eventuelle urter, og putt i ovn på 175°C i 20 minutter.",
                         "info": true
                      }
                   ]
@@ -153,18 +153,18 @@ var data = [{
                  [
                   {
                   "name": "Rød",
-                  "description": "50-55"
+                  "description": "50-55°C"
                   },
                   {
                   "name": "Rosa",
-                  "description": "55-60"
+                  "description": "55-60°C"
                   },
                   {
                   "name": "Gjennomstekt",
-                  "description": "65-70"
+                  "description": "65-70°C"
                   },
                   {
-                  "name": "Anbefalt steketemperatur: 175",
+                  "name": "Anbefalt steketemperatur: 175°C",
                   "info": true
                   }
                   ]
@@ -176,7 +176,7 @@ var data = [{
                     [
                     {
                         "name": "",
-                        "description": "58-60 grader"
+                        "description": "58-60°C"
                     },
                     ]
                 },
@@ -186,7 +186,7 @@ var data = [{
                     [
                     {
                         "name": "",
-                        "description": "75 grader på 125 grader i ovn"
+                        "description": "75°C på 125°C i ovn"
                     },
                     ]
                 },
@@ -196,7 +196,7 @@ var data = [{
                     [
                     {
                         "name": "",
-                        "description": "55-75 grader på 125 grader i ovn"
+                        "description": "55-75°C på 125°C i ovn"
                     },
                     ]
                 }
