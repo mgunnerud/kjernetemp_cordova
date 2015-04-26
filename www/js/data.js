@@ -1,5 +1,6 @@
 var data = [{
                 "name": "Fuglekrek",
+                "icon" : "img/bird7.svg",
                 "children":
                 [
                 {
@@ -19,7 +20,7 @@ var data = [{
                  }
                 ]
             },
-            {
+            /*{
                 "name": "Kalv",
                 "children":
                 [
@@ -42,9 +43,10 @@ var data = [{
                  "name": "Ytrefilet, benfri"
                  }
                 ]
-            },
+            },*/
             {
                 "name": "Lam",
+                "icon" : "img/sheep7.svg",
                 "children":
                 [
                  {
@@ -61,6 +63,7 @@ var data = [{
             },
             {
                 "name": "Sjømat",
+                "icon" : "img/raw3.svg",
                 "children":
                 [
                  {
@@ -86,6 +89,8 @@ var data = [{
             },
             {
                 "name": "Storfe",
+            "icon" : "img/cow12.svg",
+
                 "children":
                 [
                 {
@@ -199,6 +204,7 @@ var data = [{
             },
             {
                 "name": "Svin",
+            "icon" : "img/pig2.svg",
                 "children":
                 [
                 {
@@ -229,6 +235,7 @@ var data = [{
             },
             {
                 "name": "Vilt",
+            "icon" : "img/deer8.svg",
                 "children":
                 [
                  {

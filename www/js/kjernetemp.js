@@ -67,15 +67,24 @@ Kjernetemp.prototype.fillView = function(view, viewData)
 	{
 		var listObject = document.createElement("div");
 		listObject.classList.add("listObject");
+        
+        if(viewData[i].icon)
+        {
+            var listObjectIcon = document.createElement("div");
+            listObjectIcon.classList.add("listObjectIcon");
+            listObjectIcon.style.backgroundImage = "url(\""+viewData[i].icon+"\")";
+            listObject.appendChild(listObjectIcon);
+        }
+        
 		var listObjectName = document.createElement("div");
 		listObjectName.classList.add("listObjectName");
 		listObjectName.innerHTML = viewData[i].name;
 		listObject.appendChild(listObjectName);
-		
+        
 		if(viewData[i].description)
 		{
 			var listObjectDescription = document.createElement("div");
-			listObjectDescription.innerHTML = viewData[i].description
+            listObjectDescription.innerHTML = viewData[i].description;
 			listObject.appendChild(listObjectDescription);
 		}
 		if(viewData[i].info) // info node
