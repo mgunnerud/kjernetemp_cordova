@@ -242,7 +242,16 @@ var data = [{
                  "name": "Elg"
                  },
                  {
+                 "name": "Hjort"
+                 },
+                 {
                  "name": "Reinsdyr"
+                 },
+                 {
+                 "name": "Rype"
+                 },
+                 {
+                 "name": "Villsvin"
                  }
                  ]
             }
