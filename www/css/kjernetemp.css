@@ -114,7 +114,7 @@ body
 .tabbutton:not(.activeTabButton):active,
 #backButton:active i
 {
-	color: #AD0000;
+    color: #999;
 }
 
 .page
