@@ -146,7 +146,7 @@ body
 
 .listObject:not(.infoNode) .listObjectName
 {
-   font-size: 18px;
+   font-size: 20px;
 }
 
 .listObject.nodeHasChildren:active
@@ -167,7 +167,7 @@ body
     margin: 25px 0 0 0;
     border-radius: 0px;
     white-space: nowrap;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .infoNode > .fa
@@ -186,8 +186,8 @@ body
 {
     display: inline-block;
     float: left;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     margin: 5px;
     background-size:cover;
 }
