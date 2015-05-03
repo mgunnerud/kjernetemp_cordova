@@ -27,7 +27,8 @@ body
 	height: 100%;
 }
 
-#header
+#header,
+.contactHeader
 {
     position: relative;
 	height: 45px;
@@ -47,7 +48,8 @@ body
 }
 
 #header,
-#footer
+#footer,
+.contactHeader
 {
     background-color: #7E0101;/*#932222;*/
 }
@@ -94,7 +96,8 @@ body
 	display: none;
 }
 
-#headerName
+#headerName,
+.contactHeader
 {
     text-align: center;
     font-size: 21px;
@@ -141,6 +144,11 @@ body
     white-space: normal;
 }
 
+.listObject:not(.infoNode) .listObjectName
+{
+   font-size: 18px;
+}
+
 .listObject.nodeHasChildren:active
 {
 	background-color: #DDD;
@@ -182,4 +190,12 @@ body
     height: 25px;
     margin: 5px;
     background-size:cover;
+}
+
+.infoBlock
+{
+    padding: 5px;
+    margin: 15px 5px;
+    border-radius: 3px;
+    background-color: #FFF;
 }
