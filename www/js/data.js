@@ -4,19 +4,67 @@ var data = [{
                 "children":
                 [
                 {
-                    "name": "Kalkun, hel"
+                    "name": "Kalkun, hel",
+                    "children":
+                    [{
+                        "name": "Kjernetemperatur:",
+                        "description": "70-72°C"
+                     },
+                     {
+                        "name": "Mattilsynet anbefaler minst 72°C",
+                        "info": true
+                     }]
                 },
                  {
-                 "name": "Kalkunfilet/kalkunbryst"
+                 "name": "Kalkunfilet/kalkunbryst",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "68°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler minst 72°C",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Kylling, hel"
+                 "name": "Kylling, hel",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70-75°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler minst 72°C",
+                  "info": true
+                  }]
+
                  },
                  {
-                 "name": "Kalkunfilet/kyllingbryst"
+                 "name": "Kyllingfilet/kyllingbryst",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "60-70°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler minst 72°C",
+                  "info": true
+                  }]
+
                  },
                  {
-                 "name": "Kyllinglår"
+                 "name": "Kyllinglår",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70-75°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler minst 72°C",
+                  "info": true
+                  }]
+
                  }
                 ]
             },
@@ -50,13 +98,44 @@ var data = [{
                 "children":
                 [
                  {
-                    "name": "Bog, benfri"
+                    "name": "Bog, benfri",
+                    "children":
+                    [{
+                     "name": "Kjernetemperatur:",
+                     "description": "75°C"
+                     },
+                     {
+                     "name": "Anbefalt steketemperatur 175°C",
+                     "info": true
+                     }]
                  },
                  {
-                 "name": "Lammestek og lammelår"
+                    "name": "Lammestek og lammelår",
+                    "children":
+                    [{
+                        "name": "Rosa:",
+                        "description": "70°C"
+                     },
+                     {
+                        "name": "Gjennomstekt:",
+                        "description": "72°C"
+                     },
+                     {
+                     "name": "Anbefalt steketemperatur 175°C",
+                     "info": true
+                     }]
                  },
                  {
-                    "name": "Sadel med ben"
+                    "name": "Sadel med ben",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70°C"
+                  },
+                  {
+                  "name": "Anbefalt steketemperatur 175°C",
+                  "info": true
+                  }]
                  }
                  ]
 
@@ -67,22 +146,57 @@ var data = [{
                 "children":
                 [
                  {
-                 "name": "Breiflabb"
+                 "name": "Breiflabb",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "47-58°C"
+                  }]
+
                  },
                  {
-                 "name": "Hvitfisker (f. eks torsk)"
+                 "name": "Hvitfisker (f. eks torsk)",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "52°C"
+                  }]
                  },
                  {
-                 "name": "Kveite"
+                 "name": "Kveite",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "48-50°C"
+                  }]
                  },
                  {
-                 "name": "Laks"
+                 "name": "Laks",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "48-55°C"
+                  }]
                  },
                  {
-                 "name": "Plattfisk"
+                 "name": "Plattfisk",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "50-52°C"
+                  }]
                  },
                  {
-                 "name": "Tunfisk"
+                 "name": "Tunfisk",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "31°C"
+                  },
+                  {
+                  "name": "Tunfisk bør alltid ha en rå kjerne",
+                  "info": true
+                  }]
                  }
                  ]
 
@@ -98,15 +212,15 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "Rød",
+                        "name": "Rød:",
                         "description": "50-55°C"
                     },
                     {
-                        "name": "Rosa",
+                        "name": "Rosa:",
                         "description": "55-60°C"
                     },
                     {
-                        "name": "Gjennomstekt",
+                        "name": "Gjennomstekt:",
                         "description": "65-70°C"
                     },
                     {
@@ -120,7 +234,7 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "",
+                        "name": "Kjernetemperatur:",
                         "description": "70-75°C på 125°C i ovn"
                     },
                     ]
@@ -130,15 +244,15 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "Rød",
+                        "name": "Rød:",
                         "description": "50-55°C"
                      },
                      {
-                        "name": "Rosa",
+                        "name": "Rosa:",
                         "description": "55-60°C"
                      },
                      {
-                        "name": "Gjennomstekt",
+                        "name": "Gjennomstekt:",
                         "description": "65-70°C"
                      },
                      {
@@ -152,15 +266,15 @@ var data = [{
                  "children":
                  [
                   {
-                  "name": "Rød",
+                  "name": "Rød:",
                   "description": "50-55°C"
                   },
                   {
-                  "name": "Rosa",
+                  "name": "Rosa:",
                   "description": "55-60°C"
                   },
                   {
-                  "name": "Gjennomstekt",
+                  "name": "Gjennomstekt:",
                   "description": "65-70°C"
                   },
                   {
@@ -175,7 +289,7 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "",
+                        "name": "Kjernetemperatur:",
                         "description": "58-60°C"
                     },
                     ]
@@ -185,7 +299,7 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "",
+                        "name": "Kjernetemperatur:",
                         "description": "75°C på 125°C i ovn"
                     },
                     ]
@@ -195,7 +309,7 @@ var data = [{
                     "children":
                     [
                     {
-                        "name": "",
+                        "name": "Kjernetemperatur:",
                         "description": "55-75°C på 125°C i ovn"
                     },
                     ]
@@ -208,28 +322,100 @@ var data = [{
                 "children":
                 [
                 {
-                    "name": "Bogstek"
+                    "name": "Bogstek",
+                    "children":
+                    [{
+                     "name": "Kjernetemperatur:",
+                     "description": "80°C"
+                     },
+                     {
+                     "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                     "info": true
+                     }]
                 },
                  {
-                 "name": "Filet"
+                 "name": "Filet",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "65-70°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Kotelettkam"
+                 "name": "Kotelettkam",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "60-70°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Nakkestek"
+                 "name": "Nakkestek",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "80-85°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Ribbestek"
+                 "name": "Ribbestek",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "80°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Skinkestek"
+                 "name": "Skinkestek",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Svin generelt"
+                 "name": "Svin generelt",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70-75°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  },
                  {
-                 "name": "Svinestek"
+                 "name": "Svinestek",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70-75°C"
+                  },
+                  {
+                  "name": "Mattilsynet anbefaler at svin alltid skal gjennomstekes",
+                  "info": true
+                  }]
                  }
                 ]
             },
@@ -239,19 +425,52 @@ var data = [{
                 "children":
                 [
                  {
-                 "name": "Elg"
+                 "name": "Elg",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "55-62°C"
+                  }]
                  },
                  {
-                 "name": "Hjort"
+                 "name": "Hjort",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "60-62°C"
+                  }]
                  },
                  {
-                 "name": "Reinsdyr"
+                 "name": "Reinsdyr",
+                 "children":
+                 [{
+                  "name": "Rosa:",
+                  "description": "65°C"
+                  },
+                  {
+                  "name": "Gjennomstekt:",
+                  "description": "72°C"
+                  }]
                  },
                  {
-                 "name": "Rype"
+                 "name": "Rype",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "58°C"
+                  }]
                  },
                  {
-                 "name": "Villsvin"
+                 "name": "Villsvin",
+                 "children":
+                 [{
+                  "name": "Kjernetemperatur:",
+                  "description": "70°C"
+                  },
+                  {
+                  "name" : "På grunn av faren for trikiner må villsvinkjøtt fryses (-20°C) i to uker, eller gjennomstekes ved at det får en kjernetemperatur på mer enn 68°C",
+                  "info": true
+                  }]
                  }
                  ]
             }
