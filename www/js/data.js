@@ -142,7 +142,7 @@ var data = [{
             },
             {
                 "name": "Sjømat",
-                "icon" : "img/raw3.svg",
+                "icon" : "img/fish52.svg",
                 "children":
                 [
                  {
