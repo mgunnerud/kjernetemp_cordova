@@ -179,14 +179,6 @@ var data = [{
                   }]
                  },
                  {
-                 "name": "Plattfisk",
-                 "children":
-                 [{
-                  "name": "Kjernetemperatur:",
-                  "description": "50-52°C"
-                  }]
-                 },
-                 {
                  "name": "Tunfisk",
                  "children":
                  [{
