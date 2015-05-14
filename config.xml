@@ -1,16 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.kjernetemp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.kjernetemperatur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="DisallowOverscroll" value="true" />
     <preference name="StatusBarOverlaysWebView" value="false" />
-    <preference name="StatusBarBackgroundColor" value="#DDDDDD" />
-    <preference name="StatusBarStyle" value="darkcontent" />
-    <name>Kjernetemp</name>
+    <preference name="StatusBarBackgroundColor" value="#7E0101" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="Orientation" value="portrait" />
+    <name>Kjernetemperatur</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Kjernetemperatur er ment for deg som liker å lage mat, men ikke husker kjernetemperaturen for alle kjøttypene i hodet.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="kjernetemperatur@gmail.com">
+        Martin Gunnerud
     </author>
     <content src="index.html" />
+    <icon src="logo2.png" />
+    <platform name="ios">
+        <!-- images are determined by width and height. The following are supported -->
+        <splash src="Resources/ios/splash/splash_w320h480.png" width="320" height="480"/>
+        <splash src="Resources/ios/splash/splash_w640h960.png" width="640" height="960"/>
+        <splash src="Resources/ios/splash/splash_w768h1024.png" width="768" height="1024"/>
+        <splash src="Resources/ios/splash/splash_w1536h2048.png" width="1536" height="2048"/>
+        <splash src="Resources/ios/splash/splash_w640h1136.png" width="640" height="1136"/>
+        <splash src="Resources/ios/splash/splash_w750h1334.png" width="750" height="1334"/>
+        <splash src="Resources/ios/splash/splash_w1242h2208.png" width="1242" height="2208"/>
+    </platform>
     <access origin="*" />
 </widget>
