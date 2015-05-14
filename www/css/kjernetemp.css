@@ -141,7 +141,7 @@ body
 .listObjectName
 {
     padding: 10px 5px;
-    white-space: normal;
+    display: inline-block;
 }
 
 .listObject:not(.infoNode) .listObjectName
@@ -165,7 +165,7 @@ body
 
 .infoNode
 {
-    margin: 25px 0 25px 0;
+    margin: 25px 0 85px 0;
     border-radius: 0px;
     font-size: 12px;
 }
@@ -186,6 +186,7 @@ body
 .listObjectDescription
 {
     padding: 5px;
+    display: inline-block;
 }
 
 .listObjectIcon
