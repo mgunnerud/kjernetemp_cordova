@@ -85,7 +85,6 @@ body
     line-height: 18px;
 }
 
-#backButton,
 .activeTabButton
 {
     color: white;
@@ -105,17 +104,30 @@ body
 
 #backButton
 {
-    border-radius: 3px;
     position: absolute;
     top: 0px;
     width: 100px;
     padding-left: 15px;
-    font-size: 34px;
     height: 100%;
 }
 
-.tabbutton:not(.activeTabButton):active,
-#backButton:active i
+#backButton .arrowIcon
+{
+    background-image: url("../img/left15_white.svg");
+    background-size: 85%;
+    height: 100%;
+    display: inline-block;
+    width: 34px;
+    background-repeat: no-repeat;
+    margin-top: 8px;
+}
+
+#backButton .arrowIcon:active
+{
+    background-image: url("../img/left15_active.svg");
+}
+
+.tabbutton:not(.activeTabButton):active
 {
     color: #999;
 }
@@ -136,17 +148,13 @@ body
 	position: relative;
     border-radius: 3px;
     background-color: #FFF;
+    font-size: 20px;
 }
 
 .listObjectName
 {
     padding: 10px 5px;
     display: inline-block;
-}
-
-.listObject:not(.infoNode) .listObjectName
-{
-   font-size: 20px;
 }
 
 .listObject.nodeHasChildren:active
