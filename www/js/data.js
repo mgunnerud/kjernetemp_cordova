@@ -601,7 +601,7 @@ var data = [{
                   }]
                  },
                  {
-                 "name": "Reinsdyr indre- og ytrefilet",
+                 "name": "Reinsdyr indre-og ytrefilet",
                  "children":
                  [{
                   "name": "Rødt:",
@@ -654,6 +654,7 @@ var data = [{
                   "description": "70°C"
                   },
                   {
+                  "name": "Steketips:",
                   "description" : "NB! På grunn av faren for trikiner må kjøttet fryses (-20° i 2 uker) og/eller gjennomstekes ved at det får en kjernetemperatur på mer enn 68°. Dette skal være ivaretatt om du kjøper kjøttet fra forhandler.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
