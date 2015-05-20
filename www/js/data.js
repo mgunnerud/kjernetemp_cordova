@@ -34,7 +34,7 @@ var data = [{
                      },
                      {
                         "name": "Steketips:",
-                        "description": "Stekes på 180-220°C den første halvtimen. Sett så ned til 160 °C. Beregn en 1/2 time pr kg, og minst en halv time hviletid. For best resultat legg kalkunen i saltlake i 2 døgn.<br><br>Mattilsynet anbefaler minst 72°C<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                        "description": "Stekes på 180-220°C den første halvtimen. Sett så ned til 160 °C. Beregn en 1/2 time pr kg, og minst en halv time hviletid. For best resultat legg kalkunen i saltlake i 2 døgn.<br><br>Mattilsynet anbefaler minst 72°C<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                         "info": true
                      }]
                 },
@@ -47,7 +47,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes i stekepanne og stekes i ovn på 125°C  eller lavere temperatur<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes i stekepanne og stekes i ovn på 125°C  eller lavere temperatur<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -60,7 +60,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes på 180-220°C den første halvtimen. Sett så ned til 160 °C. Beregn en 1/2 time pr kg, og minst en halv time hviletid. For best resultat legg kyllingen i saltlake i 2 døgn.<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes på 180-220°C den første halvtimen. Sett så ned til 160 °C. Beregn en 1/2 time pr kg, og minst en halv time hviletid. For best resultat legg kyllingen i saltlake i 2 døgn.<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
 
@@ -74,7 +74,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes 2 minutter på hver side i middels varm panne. Stekes så i ovn på 125°C til ønskes temperatur. Kan også stekes under lokk på lav varme i 3-5 minutter. <br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes 2 minutter på hver side i middels varm panne. Stekes så i ovn på 125°C til ønskes temperatur. Kan også stekes under lokk på lav varme i 3-5 minutter. <br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
 
@@ -88,7 +88,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes på 180°C.<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes på 180°C.<br><br>Mattilsynet anbefaler minst 72°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
 
@@ -132,7 +132,7 @@ var data = [{
                      },
                      {
                      "name": "Steketips:",
-                     "description": "Stekes i ovn på mellom 70 - 175°C avhengig av tilgjengelig tidsbruk. Stekes bog på 70 °C over lang tid er kjøttet ferdig på 68°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                     "description": "Stekes i ovn på mellom 70 - 175°C avhengig av tilgjengelig tidsbruk. Stekes bog på 70 °C over lang tid er kjøttet ferdig på 68°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                      "info": true
                      }]
                  },
@@ -153,7 +153,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Tilsett smakstilsetninger som smør, hvitløk og krydder etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Tilsett smakstilsetninger som smør, hvitløk og krydder etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -170,7 +170,7 @@ var data = [{
                      },
                      {
                      "name": "Steketips:",
-                     "description": "Stekes i ovn på mellom 70 - 175°C avhengig av tilgjengelig tidsbruk. Ved  125°C må du beregne 2-4 timer avhengig av størrelse.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                     "description": "Stekes i ovn på mellom 70 - 175°C avhengig av tilgjengelig tidsbruk. Ved  125°C må du beregne 2-4 timer avhengig av størrelse.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                      "info": true
                      }]
                  },
@@ -187,7 +187,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Anbefalt steketemperatur 175°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Anbefalt steketemperatur 175°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -208,7 +208,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Tilsett smakstilsetninger som smør, hvitløk og krydder etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Tilsett smakstilsetninger som smør, hvitløk og krydder etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  }
@@ -365,7 +365,7 @@ var data = [{
                      },
                      {
                         "name": "Steketips:",
-                        "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                        "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                         "info": true
                      }
                   ]
@@ -388,7 +388,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }
                   ]
@@ -407,7 +407,7 @@ var data = [{
                      },
                      {
                      "name": "Steketips:",
-                     "description": "Stekes i ovn på 125°C eller mindre. Er steken på under 1.5 kg anbefales det å brune den først. Steketiden er på 2-3 timer avhengig av størrelse. <br><br>Roastbiff: 58°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                     "description": "Stekes i ovn på 125°C eller mindre. Er steken på under 1.5 kg anbefales det å brune den først. Steketiden er på 2-3 timer avhengig av størrelse. <br><br>Roastbiff: 58°C.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                      "info": true
                      }
                     ]
@@ -422,7 +422,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes i ovn på 125 °C eller mindre. Er steken på under 1.5 kg anbefales det å brune den først. Steketiden er på 2-3 timer avhengig av størrelse.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes i ovn på 125 °C eller mindre. Er steken på under 1.5 kg anbefales det å brune den først. Steketiden er på 2-3 timer avhengig av størrelse.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }
                  ]
@@ -445,7 +445,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }
                   ]
@@ -470,7 +470,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -496,7 +496,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -513,7 +513,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes i ovn på 125 °C. Har steken svor bruk grillen mot slutten av steketiden.<br><br>Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br> Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes i ovn på 125 °C. Har steken svor bruk grillen mot slutten av steketiden.<br><br>Mattilsynet anbefaler at svin alltid skal gjennomstekes.<br><br> Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  }
@@ -541,7 +541,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -558,7 +558,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes i ovn på 125 °C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes i ovn på 125 °C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -579,7 +579,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -596,7 +596,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes i ovn på 125 °C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes i ovn på 125 °C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -617,7 +617,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Brunes raskt i varm panne med en vegetabilsk olje som tåler høy temperatur. Stekes så i ovnen på 125 °C eller lavere. Smakstilsetninger som smør, hvitløk og krydder tilsettes etter bruning.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -634,7 +634,7 @@ var data = [{
                   },
                   {
                   "name": "Steketips:",
-                  "description": "Stekes i ovn på 125°C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description": "Stekes i ovn på 125°C eller lavere temperatur til ønsket kjernetemperatur. Mindre stykker brunes raskt i varm panne.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  },
@@ -654,7 +654,7 @@ var data = [{
                   "description": "70°C"
                   },
                   {
-                  "description" : "NB! På grunn av faren for trikiner må kjøttet fryses (-20° i 2 uker) og/eller gjennomstekes ved at det får en kjernetemperatur på mer enn 68°. Dette skal være ivaretatt om du kjøper kjøttet fra forhandler.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil treng kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Temperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
+                  "description" : "NB! På grunn av faren for trikiner må kjøttet fryses (-20° i 2 uker) og/eller gjennomstekes ved at det får en kjernetemperatur på mer enn 68°. Dette skal være ivaretatt om du kjøper kjøttet fra forhandler.<br><br>Alt kjøtt skal hvile etter steking. Jo høyere steketemperatur, jo lengre må kjøttet hvile. Vi anbefaler at kjøttet skal hvile minst halve steketiden, men dette kan reduseres ved lavere steketemperatur. For eksempel vil kjernetemperaturen til kjøtt som er stekt på 160 °C øke med om lag 5°C under hviletiden. Kjøtt stekt på 100°C vil derimot ikke øke nevneverdig i temperatur, og vil trenge kortere hviletid.  Vi anbefaler lav steketemperatur for best resultat. Husk å romtempere kjøttet før steking. Kjernetemperaturene er basert på ferdig hvilt kjøtt og må korrigeres etter steketemperatur og tykkelse.",
                   "info": true
                   }]
                  }
