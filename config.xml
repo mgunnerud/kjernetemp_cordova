@@ -7,13 +7,13 @@
     <preference name="Orientation" value="portrait" />
     <name>Kjernetemperatur</name>
     <description>
-        Kjernetemperatur er ment for deg som liker å lage mat, men ikke husker kjernetemperaturen for alle kjøttypene i hodet.
+        Kjernetemperatur er ment for deg som liker å lage mat, men ikke husker alle kjernetemperaturene og stekemetodene i hodet.
     </description>
     <author email="kjernetemperatur@gmail.com">
         Martin Gunnerud
     </author>
     <content src="index.html" />
-    <icon src="logo2.png" />
+    <icon src="logo3.png" />
     <platform name="ios">
         <!-- images are determined by width and height. The following are supported -->
         <splash src="Resources/ios/splash/splash_w320h480.png" width="320" height="480"/>
