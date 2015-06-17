@@ -113,7 +113,7 @@ body
 
 #backButton .arrowIcon
 {
-    background-image: url("../img/left15_white.svg");
+    background-image: url("../img/left15_white.png");
     background-size: 85%;
     height: 100%;
     display: inline-block;
@@ -124,7 +124,7 @@ body
 
 #backButton .arrowIcon:active
 {
-    background-image: url("../img/left15_active.svg");
+    background-image: url("../img/left15_active.png");
 }
 
 .tabbutton:not(.activeTabButton):active

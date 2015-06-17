@@ -1,6 +1,6 @@
 var data = [{
                 "name": "Fjærkre",
-                "icon" : "img/bird7.svg",
+                "icon" : "img/bird7.png",
                 "children":
                 [
                  {
@@ -121,7 +121,7 @@ var data = [{
             },*/
             {
                 "name": "Lam",
-                "icon" : "img/sheep7.svg",
+                "icon" : "img/sheep7.png",
                 "children":
                 [{
                     "name": "Bog",
@@ -216,7 +216,7 @@ var data = [{
             },
             {
                 "name": "Sjømat",
-                "icon" : "img/fish52.svg",
+                "icon" : "img/fish52.png",
                 "children":
                 [
                  {
@@ -321,7 +321,7 @@ var data = [{
             },
             {
             "name": "Storfe",
-            "icon" : "img/cow12.svg",
+            "icon" : "img/cow12.png",
 
                 "children":
                 [
@@ -454,7 +454,7 @@ var data = [{
             },
             {
                 "name": "Svin",
-                "icon" : "img/pig2.svg",
+                "icon" : "img/pig2.png",
                 "children":
                 [
                 {
@@ -521,7 +521,7 @@ var data = [{
             },
             {
                 "name": "Vilt",
-                "icon" : "img/deer8.svg",
+                "icon" : "img/deer8.png",
                 "children":
                 [
                  {
