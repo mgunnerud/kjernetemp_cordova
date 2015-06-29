@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.kjernetemperatur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.kjernetemperatur.kjernetemperatur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="DisallowOverscroll" value="true" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#7E0101" />
     <preference name="StatusBarStyle" value="lightcontent" />
     <preference name="Orientation" value="portrait" />
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
     <name>Kjernetemperatur</name>
     <description>
         Kjernetemperatur er ment for deg som liker å lage mat, men ikke husker alle kjernetemperaturene og stekemetodene i hodet.
@@ -14,6 +17,11 @@
     </author>
     <content src="index.html" />
     <icon src="logo3.png" />
+    <icon src="logo3_57.png" platform="ios" width="57" height="57"/>
+    <icon src="logo3_72.png" platform="ios" width="72" height="72"/>
+    <icon src="logo3_76.png" platform="ios" width="76" height="76"/>
+    <icon src="logo3_120.png" platform="ios" width="120" height="120"/>
+    <icon src="logo3_152.png" platform="ios" width="152" height="152"/>
     <platform name="ios">
         <!-- images are determined by width and height. The following are supported -->
         <splash src="Resources/ios/splash/splash_w320h480.png" width="320" height="480"/>
