@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.kjernetemperatur.kjernetemperatur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="AllowInlineMediaPlayback" value="false" />
+    <preference name="BackupWebStorage" value="cloud" />
+    <preference name="DisallowOverscroll" value="false" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="GapBetweenPages" value="0" />
+    <preference name="PageLength" value="0" />
+    <preference name="PaginationBreakingMode" value="page" />
+    <preference name="PaginationMode" value="unpaginated" />
+    <feature name="LocalStorage">
+        <param name="ios-package" value="CDVLocalStorage" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
+    <splash height="480" src="Resources/ios/splash/splash_w320h480.png" width="320" />
+    <splash height="960" src="Resources/ios/splash/splash_w640h960.png" width="640" />
+    <splash height="1024" src="Resources/ios/splash/splash_w768h1024.png" width="768" />
+    <splash height="2048" src="Resources/ios/splash/splash_w1536h2048.png" width="1536" />
+    <splash height="1136" src="Resources/ios/splash/splash_w640h1136.png" width="640" />
+    <splash height="1334" src="Resources/ios/splash/splash_w750h1334.png" width="750" />
+    <splash height="2208" src="Resources/ios/splash/splash_w1242h2208.png" width="1242" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#7E0101" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <preference name="Orientation" value="portrait" />
+    <name>Kjernetemperatur</name>
+    <description>
+        Kjernetemperatur er ment for deg som liker å lage mat, men ikke husker alle kjernetemperaturene og stekemetodene i hodet.
+    </description>
+    <author email="kjernetemperatur@gmail.com">
+        Martin Gunnerud
+    </author>
+    <content src="index.html" />
+    <icon src="logo3.png" />
+    <icon height="57" platform="ios" src="logo3_57.png" width="57" />
+    <icon height="72" platform="ios" src="logo3_72.png" width="72" />
+    <icon height="76" platform="ios" src="logo3_76.png" width="76" />
+    <icon height="120" platform="ios" src="logo3_120.png" width="120" />
+    <icon height="152" platform="ios" src="logo3_152.png" width="152" />
+    <access origin="*" />
+</widget>
