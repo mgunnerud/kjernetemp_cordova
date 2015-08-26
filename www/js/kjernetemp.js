@@ -16,18 +16,22 @@ function Kjernetemp()
 	
 	var $backButton = document.getElementById("backButton");
 	me.setBackButtonVisibility(false);
-	var backButtonClickFn = function (event)
-	{
-		event.preventDefault();
-        var lastIndexOfBreak = window.location.hash.lastIndexOf("-");
-        window.location.hash = window.location.hash.substr(0, lastIndexOfBreak);
-        me.doScroll();
-    };
-	$backButton.addEventListener("click", backButtonClickFn, false);
+	$backButton.addEventListener("click", me.backButtonFn, false);
 	me.setHeaderName(defaultHeaderName);
 	
     window.location.hash = "0";
     slider.slidePage($firstView);
+};
+
+Kjernetemp.prototype.backButtonFn = function(event)
+{
+    event.preventDefault();
+    var lastIndexOfBreak = window.location.hash.lastIndexOf("-");
+    if(lastIndexOfBreak > 0)
+    {
+        window.location.hash = window.location.hash.substr(0, lastIndexOfBreak);
+        kjernetempGlobal.doScroll();
+    }
 };
 
 Kjernetemp.prototype.setupTabButtons = function()
@@ -167,4 +171,10 @@ window.onload = function ()
 	kjernetempGlobal = new Kjernetemp();
    	var attachFastClick = Origami.fastclick;
     attachFastClick(document.body);
+    document.addEventListener("deviceready", onDeviceReady, false);
 };
+
+// register back button on android devices:
+var onDeviceReady = function onDeviceReady() {
+    document.addEventListener("backbutton", kjernetempGlobal.backButtonFn, false);
+}
